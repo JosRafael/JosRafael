@@ -1,9 +1,5 @@
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=José Rafael Matias de Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+José+Rafael;I'm+20+years+old;I+from+Brasil,+PE;I+study+systems+for+internet+IFPE-SALGUEIRO;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 <div align="center">
   <a href="https://github.com/JosRafael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosRafael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -45,6 +41,3 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JosRafael}/count.svg" /></p> 
 <br></div>
-  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
