@@ -149,7 +149,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JosRafael&theme=onedark&no-frame=true&column=7&margin-w=8"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JosRafael&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=false&border_color=7c3aed&title_color=a78bfa" />
 
 </div>
 
