@@ -149,7 +149,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JosRafael&theme=tokyonight&no-frame=true&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JosRafael&theme=onedark&no-frame=true&column=7&margin-w=8"/>
 
 </div>
 
